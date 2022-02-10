@@ -10,8 +10,8 @@
 <hr>
 <div>
 <a href="https://github.com/GabrielFerrariR">
-<img height="180em" width="600em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFerrariR&layout=compact&langs_count=7&theme=merko"/>
-<img height="180em" width="600em" src="https://github-readme-stats.vercel.app/api?username=GabrielFerrariR&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+<img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFerrariR&layout=compact&langs_count=7&theme=merko"/>
+<img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api?username=GabrielFerrariR&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
 </div>
 
 <!--
