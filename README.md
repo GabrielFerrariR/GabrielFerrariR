@@ -1,4 +1,4 @@
-## Hi there! 
+## Hello, world! 
 ### My name is Gabriel and welcome to my GitHub profile. 
 
 #### I'm currently studying at [Trybe](https://www.betrybe.com/) and I'm starting my career as a full stack developer.
