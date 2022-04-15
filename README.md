@@ -10,9 +10,16 @@
 <hr>
 <div>
 <a href="https://github.com/GabrielFerrariR" align="center">
-  <img height="170em" align="center" src="https://github-readme-stats.vercel.app/api?username=GabrielFerrariR&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <p align="center">
+     <img height="170em" align="center" src="https://github-readme-stats.vercel.app/api?username=GabrielFerrariR&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  </p>
 </a>
 </div>
+
+## Contact
+<a href="https://github.com/GabrielFerrariR">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
 <!--
 **GabrielFerrariR/GabrielFerrariR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
