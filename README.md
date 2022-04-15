@@ -17,7 +17,7 @@
 </div>
 
 ## Contact
-<a href="https://github.com/GabrielFerrariR">
+<a href="https://www.linkedin.com/in/gabriel-ribeiro-bioufmg/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
