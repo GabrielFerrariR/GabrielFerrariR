@@ -12,7 +12,7 @@
 <div>
 <a href="https://github.com/GabrielFerrariR" align="center">
   <p align="center">
-     <img height="170em" align="center" src="https://github-readme-stats.vercel.app/api?username=GabrielFerrariR&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+     <img height="170em" align="center" src="https://github-readme-stats.vercel.app/api?username=GabrielFerrariR&show_icons=true&theme=cobalt2&include_all_commits=true&count_private=true"/>
   </p>
 </a>
 </div>
