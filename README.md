@@ -1,4 +1,4 @@
-![Blue Illustrated Technology General LinkedIn Banner](https://user-images.githubusercontent.com/90651107/170071160-788de819-5e41-4add-8124-6cd3bb523fe7.png)
+![Blue Illustrated Technology General LinkedIn Banner (1)](https://user-images.githubusercontent.com/90651107/170072908-41a6543d-7873-48b3-9ac1-22e1b712ed1c.png)
 
 ### Welcome to my GitHub profile. 
 
