@@ -2,10 +2,10 @@
 
 ### Welcome to my GitHub profile. 
 
-#### I'm currently studying at [Trybe](https://www.betrybe.com/) and I'm starting my career as a full stack developer.
+#### I pretend to start my career as a full stack developer and I'm currently studying at [Trybe](https://www.betrybe.com/). I have just started the back end module and I have already finished the programming fundamentals and front end modules, I love to connect with people and colaborate with them.
 <hr>
 
-## Tools and Technologies I'm Learning:
+<h2 align="center"> 📖 Tools and Technologies I'm Learning:<h2>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
 <hr>
