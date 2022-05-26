@@ -2,7 +2,7 @@
 
 ### Welcome to my GitHub profile. 
 
-#### I pretend to start my career as a full stack developer and I'm currently studying at [Trybe](https://www.betrybe.com/). I have just started the back end module and I have already finished the programming fundamentals and front end modules, I love to connect with people and colaborate with them.
+#### I intend to start my career as a full stack developer and I'm currently studying at [Trybe](https://www.betrybe.com/). I have just started the back end module and I have already finished the programming fundamentals and front end modules, I love to connect with people and colaborate with them.
 <hr>
 
 <h2 align="center"> 📖 Tools and Technologies I'm Learning:<h2>
