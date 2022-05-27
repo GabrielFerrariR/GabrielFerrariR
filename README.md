@@ -21,7 +21,7 @@ Others: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-ori
 <hr>
 <div>
 
-<a href="http://www.github.com/GabrielFerrariR"><img src="https://github-readme-stats.vercel.app/api?username=GabrielFerrariR&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=ffffff&icon_color=0891b2&bg_color=181824&hide_border=true&show_icons=true" alt="GabrielFerrariR's GitHub stats" width="50%" align="left"/></a> <img src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielFerrariR&stroke=ffffff&background=181824&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="50%" align="right"/></a>                  
+<a href="http://www.github.com/GabrielFerrariR"><img src="https://github-readme-stats.vercel.app/api?username=GabrielFerrariR&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=ffffff&icon_color=0891b2&bg_color=181824&hide_border=true&show_icons=true" alt="GabrielFerrariR's GitHub stats" width="45%"/></a> <img src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielFerrariR&stroke=ffffff&background=181824&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="45%"/></a>                  
 <p align="center">
 <a href="https://github.com/GabrielFerrariR" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFerrariR&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=0891b2&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" align="center"/></a>
 </p>
