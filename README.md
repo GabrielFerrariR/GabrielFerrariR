@@ -2,7 +2,7 @@
 
 ### Welcome to my GitHub profile. 
 
-#### I intend to start my career as a full stack developer and I'm currently studying at [Trybe](https://www.betrybe.com/). I have just started the back end module and I have already finished the programming fundamentals and front end modules, I love to connect with people and colaborate with them.
+#### I intend to start my career as a full stack developer and I'm currently studying at [Trybe](https://www.betrybe.com/). I love to connect with people and colaborate with them.
 <hr>
 
 <h2 align="center"> 📖 Tools and Technologies I'm Learning:<h2>
@@ -17,7 +17,7 @@
 </a>
 </div>
 
-## Contact me 🤝
+<h2 align="center">Contact me 🤝<h2>
 <a href="https://www.linkedin.com/in/gabriel-ribeiro-bioufmg/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
