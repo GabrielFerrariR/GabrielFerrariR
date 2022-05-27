@@ -30,10 +30,7 @@ Others: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-ori
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/GabrielFerrariR/Recipes-App" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielFerrariR&repo=Recipes-App&title_color=facc15&text_color=ffffff&icon_color=0891b2&bg_color=181824&hide_border=true&locale=en" /></a><a href="https://github.com/GabrielFerrariR/Wallet" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielFerrariR&repo=Wallet&title_color=facc15&text_color=ffffff&icon_color=0891b2&bg_color=181824&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
+<div width="100%" align="center"><a href="https://github.com/GabrielFerrariR/Recipes-App" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielFerrariR&repo=Recipes-App&title_color=facc15&text_color=ffffff&icon_color=0891b2&bg_color=181824&hide_border=true&locale=en" /></a><a href="https://github.com/GabrielFerrariR/Wallet" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielFerrariR&repo=Wallet&title_color=facc15&text_color=ffffff&icon_color=0891b2&bg_color=181824&hide_border=true&locale=en" /></a></div>
 <div width="100%" align="center"><a href="https://github.com/GabrielFerrariR/Trivia-project" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielFerrariR&repo=Trivia-project&title_color=facc15&text_color=ffffff&icon_color=0891b2&bg_color=181824&hide_border=true&locale=en" /></a></div>
 
 <h2 align="center">Contact me 🤝<h2>
