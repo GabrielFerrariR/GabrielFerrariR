@@ -39,9 +39,3 @@ Others: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-ori
 <br /><br /><br /><br /><br />
 
 <div width="100%" align="center"><a href="https://github.com/GabrielFerrariR/Trivia-project" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielFerrariR&repo=Trivia-project&title_color=facc15&text_color=ffffff&icon_color=0891b2&bg_color=181824&hide_border=true&locale=en" /></a></div>
-  
-<!--
-<h2>Contact me 🤝<h2>
-<a href="https://www.linkedin.com/in/gabriel-ribeiro-bioufmg/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
