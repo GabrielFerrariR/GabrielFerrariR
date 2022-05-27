@@ -1,7 +1,5 @@
 ![Blue Illustrated Technology General LinkedIn Banner (2)](https://user-images.githubusercontent.com/90651107/170770932-1aa4b352-7099-4d63-a190-6c82f8ebfac9.png)
 
-
-
 <h3> Welcome to my GitHub profile. </h3>
 
 #### I intend to start my career as a full stack developer and I'm currently studying at [Trybe](https://www.betrybe.com/). I love to connect with people and colaborate with them.
@@ -37,21 +35,3 @@ Others: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-ori
 <a href="https://www.linkedin.com/in/gabriel-ribeiro-bioufmg/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-
-<!--
-**GabrielFerrariR/GabrielFerrariR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-<!--
-**GabrielFerrariR/GabrielFerrariR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
