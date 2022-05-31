@@ -1,8 +1,8 @@
 ![Blue Illustrated Technology General LinkedIn Banner (2)](https://user-images.githubusercontent.com/90651107/170770932-1aa4b352-7099-4d63-a190-6c82f8ebfac9.png)
 
-<h3> Welcome to my GitHub profile. </h3>
+<h4> Welcome to my GitHub profile. </h4>
 
-#### I intend to start my career as a full stack developer and I'm currently studying at [Trybe](https://www.betrybe.com/). I love to connect with people and colaborate with them.
+I intend to start my career as a full stack developer and I'm currently studying at [Trybe](https://www.betrybe.com/). I love to connect with people and colaborate with them.
 
 <h2>Contact me 🤝<h2>
 <a href="https://www.linkedin.com/in/gabriel-ribeiro-bioufmg/">
@@ -36,6 +36,5 @@ Others: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-ori
 
 <div width="100%" align="center"><a href="https://github.com/GabrielFerrariR/Recipes-App" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielFerrariR&repo=Recipes-App&title_color=facc15&text_color=ffffff&icon_color=0891b2&bg_color=181824&hide_border=true&locale=en" /></a><a href="https://github.com/GabrielFerrariR/Wallet" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielFerrariR&repo=Wallet&title_color=facc15&text_color=ffffff&icon_color=0891b2&bg_color=181824&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
-<br /><br /><br /><br /><br />
 
 <div width="100%" align="center"><a href="https://github.com/GabrielFerrariR/Trivia-project" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielFerrariR&repo=Trivia-project&title_color=facc15&text_color=ffffff&icon_color=0891b2&bg_color=181824&hide_border=true&locale=en" /></a></div>
