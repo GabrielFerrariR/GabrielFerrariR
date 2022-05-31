@@ -9,7 +9,7 @@ I intend to start my career as a full stack developer and I'm currently studying
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<h2 align="center"> 📖 Tools and Technologies <h2>
+<h2 align="center"> 📖 Tools and Technologies </h2>
 
 Core: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
 
