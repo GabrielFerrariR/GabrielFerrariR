@@ -29,7 +29,7 @@ I intend to start my career as a full stack developer and I'm currently studying
 </p>
 </b>
 
-<b>Top Repositories</b>
+<h2 align="center">Top Repositories</h2>
 
 <div width="100%" align="center"><a href="https://github.com/GabrielFerrariR/Recipes-App" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielFerrariR&repo=Recipes-App&title_color=facc15&text_color=ffffff&icon_color=0891b2&bg_color=181824&hide_border=true&locale=en" /></a><a href="https://github.com/GabrielFerrariR/Wallet" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielFerrariR&repo=Wallet&title_color=facc15&text_color=ffffff&icon_color=0891b2&bg_color=181824&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
