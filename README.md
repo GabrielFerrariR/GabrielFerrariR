@@ -11,7 +11,8 @@ I intend to start my career as a full stack developer and I'm currently studying
 
 <h2 align="center"> 📖 Tools and Technologies </h2>
 
-<br>Core:</br> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+<b>
+  Core:<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
 
   Front-end: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="40" height="40"/>
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="40" height="40" alt="Bootstrap" /></a>
@@ -26,6 +27,7 @@ I intend to start my career as a full stack developer and I'm currently studying
 <p align="center">
 <a href="https://github.com/GabrielFerrariR" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFerrariR&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=0891b2&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" align="center"/></a>
 </p>
+</b>
 
 <b>Top Repositories</b>
 
