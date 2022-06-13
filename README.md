@@ -9,7 +9,7 @@
 
  <br/>
 
-<h2>Contato / Contact me 🤝<h2>
+<h2 align="center">>Contato / Contact me 🤝<h2>
 
 <a href="https://www.linkedin.com/in/gabriel-ribeiro-bioufmg/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -29,7 +29,7 @@ Core | Front-end | Back-end | Others
 
 <br/>
   
-<a href="http://www.github.com/GabrielFerrariR"><img src="https://github-readme-stats.vercel.app/api?username=GabrielFerrariR&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=ffffff&icon_color=0891b2&bg_color=181824&hide_border=true&show_icons=true" alt="GabrielFerrariR's GitHub stats" width="45%"/></a> <img src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielFerrariR&stroke=ffffff&background=181824&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="45%"/></a>                  
+<a href="http://www.github.com/GabrielFerrariR"><img src="https://github-readme-stats.vercel.app/api?username=GabrielFerrariR&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=ffffff&icon_color=0891b2&bg_color=181824&hide_border=true&show_icons=true" alt="GabrielFerrariR's GitHub stats" width="45%"/></a> <a href="http://www.github.com/GabrielFerrariR"><img src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielFerrariR&stroke=ffffff&background=181824&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="45%"/></a>                  
 <p align="center">
 <a href="https://github.com/GabrielFerrariR" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFerrariR&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=0891b2&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" align="center"/></a>
 </p>
