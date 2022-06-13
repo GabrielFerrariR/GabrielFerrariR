@@ -3,9 +3,9 @@
 <h4> Bem vinda(o) ao meu perfil do Github/ Welcome to my GitHub profile. </h4>
 
 >* 📖 Estou começando minha carreira com desenvolvedor full e estou estudando na [Trybe](https://www.betrybe.com/). /I intend to start my career as a full stack developer and I'm currently studying at [Trybe](https://www.betrybe.com/).
->* 💻 No momento estou no módulo de Backend. / At this moment I'm  studying Backend technologies.
+>* 💻 No momento estou no módulo de Backend. / At this moment, I'm  studying Backend technologies.
 >* ❤️ Eu amo jogos indie, codar ouvindo lo-fi e estar com minha família/amigos. / I love indie games, listen to lo-fi while coding and being wiht my family/friends.
->* 😁 Eu gosto me conectar com pessoas e colaborar com elas. / I like to connect with people and colaborate with them.
+>* 😁 Eu gosto de me conectar com pessoas e colaborar com elas. / I like to connect with people and colaborate with them.
 
  <br/>
 
