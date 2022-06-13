@@ -7,13 +7,15 @@
 >* ❤️ Eu amo jogos indie, codar ouvindo lo-fi e estar com minha família/amigos. / I love indie games, listen to lo-fi while coding and being wiht my family/friends.
 >* 😁 Eu gosto me conectar com pessoas e colaborar com elas. / I like to connect with people and colaborate with them.
 
+ <br/>
+
 <h2>Contato / Contact me 🤝<h2>
 
 <a href="https://www.linkedin.com/in/gabriel-ribeiro-bioufmg/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<br/> <br/>
+<br/>
 
 <h2 align="center"> 📖 Ferramentas e tecnologias / Tools and Technologies </h2>
 <br/>
