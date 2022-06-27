@@ -1,5 +1,5 @@
 <h1 align="left">Olá, sou o Gabriel ;) </h1>
-<a href="https://app.daily.dev/gabrielferrarir"><img src="https://api.daily.dev/devcards/80c1fabcef97408eb25bbb3ec6e13810.png?r=h1v" width="200" alt="Gabriel Ferrari's Dev Card"align="right"/></a>
+<a href="https://app.daily.dev/gabrielferrarir"><img src="https://github.com/GabrielFerrariR/GabrielFerrariR/blob/main/devcard.svg" width="200" alt="Gabriel Ferrari's Dev Card"align="right"/></a>
 
 <h4> Bem vinda(o) ao meu perfil do Github/ Welcome to my GitHub profile. </h4>
 
