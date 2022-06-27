@@ -1,7 +1,5 @@
-<-- ![Blue Illustrated Technology General LinkedIn Banner (2)](https://user-images.githubusercontent.com/90651107/170770932-1aa4b352-7099-4d63-a190-6c82f8ebfac9.png) -->
-
-<h1 align="left">'Olá, sou o Gabriel ;) </h1>
-<a href="https://app.daily.dev/gabrielferrarir"><img src="https://api.daily.dev/devcards/80c1fabcef97408eb25bbb3ec6e13810.png?r=h1v" width="300" alt="Gabriel Ferrari's Dev Card"align="right"/></a>
+<h1 align="left">Olá, sou o Gabriel ;) </h1>
+<a href="https://app.daily.dev/gabrielferrarir"><img src="https://api.daily.dev/devcards/80c1fabcef97408eb25bbb3ec6e13810.png?r=h1v" width="200" alt="Gabriel Ferrari's Dev Card"align="right"/></a>
 
 <h4> Bem vinda(o) ao meu perfil do Github/ Welcome to my GitHub profile. </h4>
 
