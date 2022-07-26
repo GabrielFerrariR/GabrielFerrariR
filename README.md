@@ -36,7 +36,7 @@ Core | Front-end | Back-end | Others
 <br/>
  
 <div align="center">
-<a href="http://www.github.com/GabrielFerrariR"><img src="https://github-readme-stats.vercel.app/api?username=GabrielFerrariR&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=ffffff&icon_color=0891b2&bg_color=181824&hide_border=true&show_icons=true" alt="GabrielFerrariR's GitHub stats" width="45%"/></a> <a href="http://www.github.com/GabrielFerrariR"><img src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielFerrariR&stroke=ffffff&background=181824&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="45%"/></a>   
+<a href="http://www.github.com/GabrielFerrariR"><img src="https://github-readme-stats.vercel.app/api?username=GabrielFerrariR&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=ffffff&icon_color=0891b2&bg_color=181824&hide_border=true&show_icons=true" alt="GabrielFerrariR's GitHub stats" width="45%"/></a> <a href="http://www.github.com/GabrielFerrariR"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFerrariR&layout=compact&title_color=facc15&text_color=ffffff&icon_color=0891b2&bg_color=181824&hide_border=true" width="45%" /></a>   
 </div>
 </b>
 
