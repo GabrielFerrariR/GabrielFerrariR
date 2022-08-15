@@ -58,5 +58,9 @@ Core | Front-end | Back-end | Others
  
  <div width="100%" align="center">
   <a href="https://github.com/GabrielFerrariR/Store-manager" align="right"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielFerrariR&repo=Store-manager&title_color=facc15&text_color=ffffff&icon_color=0891b2&bg_color=181824&hide_border=true&locale=en" /></a>
+  <a href="https://github.com/GabrielFerrariR/Blogs-API" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielFerrariR&repo=Blogs-API&title_color=facc15&text_color=ffffff&icon_color=0891b2&bg_color=181824&hide_border=true&locale=en" /></a>
+</div>
+  <div width="100%" align="center">
+  <a href="https://github.com/GabrielFerrariR/Trybers-and-Dragons" align="center"><img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielFerrariR&repo=Trybers-and-Dragons&title_color=facc15&text_color=ffffff&icon_color=0891b2&bg_color=181824&hide_border=true&locale=en" /></a>
 </div>
  <br /><br /><br /><br /><br /><br />
