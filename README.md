@@ -51,8 +51,10 @@ Core | Front-end | Back-end | Others
 <div width="100%" align="center">
   <a href="https://github.com/GabrielFerrariR/React-testing-library" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielFerrariR&repo=React-testing-library&title_color=facc15&text_color=ffffff&icon_color=0891b2&bg_color=181824&hide_border=true&locale=en" /></a>
 </div>
+
  <br /><br /><br /><br /><br /><br /><br />
-<h3>Back-end</h3>
+ 
+<h3 align="left">Back-end</h3>
 <hr>
  
  <div width="100%" align="center">
