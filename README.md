@@ -7,7 +7,7 @@
 >* ❤️ Eu amo jogos indie, codar ouvindo lo-fi e estar com minha família/amigos. / I love indie games, listen to lo-fi while coding and being wiht my family/friends.
 >* 😁 Eu gosto de me conectar com pessoas e colaborar com elas. / I like to connect with people and colaborate with them.
 
- <br/>
+ <br/><br/><br/>
 
 <h2 align="center"> 🤝 Contato / Contact me <h2>
  
