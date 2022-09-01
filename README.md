@@ -66,3 +66,12 @@ Core | Front-end | Back-end | Others
   <div width="100%" align="center">
   <a href="https://github.com/GabrielFerrariR/Trybers-and-Dragons" align="center"><img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielFerrariR&repo=Trybers-and-Dragons&title_color=facc15&text_color=ffffff&icon_color=0891b2&bg_color=181824&hide_border=true&locale=en" /></a>
 </div>
+
+ 
+<h3 align="left">FullStack</h3>
+<hr>
+ 
+  <div width="100%" align="center">
+  <a href="https://github.com/GabrielFerrariR/TFC" align="center"><img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielFerrariR&repo=TFC&title_color=facc15&text_color=ffffff&icon_color=0891b2&bg_color=181824&hide_border=true&locale=en" /></a>
+</div>
+
