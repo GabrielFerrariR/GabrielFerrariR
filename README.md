@@ -3,7 +3,7 @@
 
 <h4> Bem vinda(o) ao meu perfil do Github/ Welcome to my GitHub profile. </h4>
 
->* 📖 Desenvolvedor Jr. na [Bigtrade](https://www.bigtrade.com.br/).
+>* 📖 Desenvolvedor Jr. na [bigtrade s/a](https://www.bigtrade.com.br/). / Jr Developer at bigtrade s/a
 >* ❤️ Eu amo jogos indie, codar ouvindo lo-fi e estar com minha família/amigos. / I love indie games, listen to lo-fi while coding and being wiht my family/friends.
 >* 😁 Eu gosto de me conectar com pessoas e colaborar com elas. / I like to connect with people and colaborate with them.
 
@@ -12,7 +12,7 @@
 <h2 align="center"> 🤝 Contato / Contact me <h2>
  
 <div align="center">
- <a href="https://www.linkedin.com/in/gabriel-ribeiro-bioufmg/">
+ <a href="https://www.linkedin.com/in/gabrielferrarir)">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
  </a>
  <a href="mailto:gabrielferrari601@gmail.com">
