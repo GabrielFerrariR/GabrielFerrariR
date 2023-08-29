@@ -1,4 +1,4 @@
-<h1 align="left">Hi,I'm Gabriel ;) </h1>
+<h1 align="left">Hi, I'm Gabriel ;) </h1>
 <a href="https://app.daily.dev/gabrielferrarir"><img src="https://github.com/GabrielFerrariR/GabrielFerrariR/blob/main/devcard.svg" width="200" alt="Gabriel Ferrari's Dev Card"align="right"/></a>
 
 <h4> Welcome to my GitHub profile. </h4>
