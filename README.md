@@ -3,7 +3,7 @@
 
 <h4> Welcome to my GitHub profile. </h4>
 
->* Data Engineer at bigtrade s/a
+>* Data Engineer at Offerwise
 >* I love indie games, listen to lo-fi while coding and being wiht my family/friends.
 >* I like to connect with people and colaborate with them.
 
