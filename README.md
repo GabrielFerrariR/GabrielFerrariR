@@ -4,11 +4,10 @@
 <h4> Welcome to my GitHub profile. </h4>
 
 >* Data Engineer at Offerwise
->* I love indie games, listen to lo-fi while coding and being wiht my family/friends.
->* I like to connect with people and colaborate with them.
 
  <br/><br/><br/>
  <br/><br/><br/>
+  <br/><br/><br/>
 <h2 align="center"> 🤝 Contact me <h2>
  
 <div align="center">
@@ -19,16 +18,6 @@
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
  </a>
  <br/>
-</div>  
-
-<h2 align="center"> 📖 Ferramentas e tecnologias / Tools and Technologies </h2>
-<br/>
-  
-<div align="center"> 
-
-Languages | Frameworks and tools
-|:----:|:----:|
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  width="40" height="40" /> | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black)
 </div>  
 
 <br/>
